@@ -25,6 +25,17 @@
 
 ---
 
+---
+
+<div style=" background-color: red; display: inline-block;">
+  <p style="font-size: large;"><b>Click here to Download the Apk</b></p>
+  <a href = "https://github.com/NightOwlGK/News_suno/releases/download/untagged-21d1653736bc5bb489a5/app-release.apk">
+      <img src="https://github.com/user-attachments/assets/cb9e0475-0555-4af6-b46f-4964fd846d59" alt="Download Apk File" style="width: 200px;height: 200px;object-fit: cover;" />
+   </a>
+</div>
+
+---
+
 ## 📸 Screenshots  
 
 <div align="center">
